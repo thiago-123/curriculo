@@ -1,0 +1,121 @@
+.logo{
+    position: absolute;
+    top: -22px;
+}
+.imagem3{
+    position: absolute;
+    border-radius: 2000px;
+    width: 200px;
+    top: 145px;
+    left: 99px;
+   
+}
+.imagem2{
+    width: 100%; 
+    max-width: 780px;
+    position: absolute;
+    top: 95px;
+    left: 560px;
+}
+header {
+    width: 100%;
+    max-width: 780px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    float: right;
+}
+ul {
+    display: flex;
+    position: relative;
+    left: 724px;
+}
+li{
+    display: inline-block;
+    margin: 20px;
+    color:#0F0462;
+}
+body {
+    overflow-x: hidden;
+    width: 100%;
+    max-width: 936px;
+    position: absolute;
+    background-color:#ffffff;
+}
+h1{
+    position: absolute;
+    top: 339px;
+    left: 99px;
+    color:#0F0462;
+}
+.sobre{
+    position: absolute;
+    top: 395px;
+    left: 113px;
+    color:#0F0462;
+}
+.frase1{
+    position: absolute;  
+    top: 426px;
+    left: 116px;
+    color:#0F0462;
+}
+.habilidades{
+    position: absolute;
+    top: 537px;
+    left: 113px;
+    color:#0F0462;
+}
+.frase2{
+    position: absolute;
+    top: 570px;
+    left: 116px;
+    color:#0F0462;
+}
+.certificados{
+    position: absolute;
+    top: 821px;
+    left: 637px;
+}
+.trabalhos{
+    position: absolute;
+    top: 821px;
+    left: 1048px;
+}
+.redes{
+    position: absolute;
+    top: -238px;
+    left: 60px;
+}
+.facebook{
+    position: absolute;
+    top: 1300px;
+    left: 150px;
+}
+.GitHub{
+    position: absolute;
+    top: 1300px;
+    left: 300px;
+}
+.Instagram{
+    position: absolute;
+    top: 1300px;
+    left: 450px;   
+}
+.Gmail{
+    position: absolute;
+    top: 1300px;
+    left: 600px;  
+}
+.LinkedIn{
+    position: absolute;
+    top: 1300px;
+    left: 750px;  
+}
+.WhatsApp{
+    position: absolute;
+    top: 1300px;
+    left: 900px;  
+}
+
